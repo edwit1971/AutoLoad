@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "1NdCZtFg9MV6fYu34goeeW7aM8gVrtPV7b6BLWM/J2SMtFIqpFEgXmd693gv+5snQzSoTLh5OVPTZ4WlyW4+OQ==",
+  "success": true,
+  "projectFilePath": "D:\\Dev - Godot\\AutoLoad_Error\\AutoLoad.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\16092\\.nuget\\packages\\godot.sourcegenerators\\4.1.1\\godot.sourcegenerators.4.1.1.nupkg.sha512",
+    "C:\\Users\\16092\\.nuget\\packages\\godotsharp\\4.1.1\\godotsharp.4.1.1.nupkg.sha512",
+    "C:\\Users\\16092\\.nuget\\packages\\godotsharpeditor\\4.1.1\\godotsharpeditor.4.1.1.nupkg.sha512"
+  ],
+  "logs": []
+}

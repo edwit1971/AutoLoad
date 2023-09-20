@@ -1,0 +1,17 @@
+D:\Dev - Godot\AutoLoad_Error\.godot\mono\temp\obj\Debug\AutoLoad.csproj.AssemblyReference.cache
+D:\Dev - Godot\AutoLoad_Error\.godot\mono\temp\obj\Debug\AutoLoad.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dev - Godot\AutoLoad_Error\.godot\mono\temp\obj\Debug\AutoLoad.AssemblyInfoInputs.cache
+D:\Dev - Godot\AutoLoad_Error\.godot\mono\temp\obj\Debug\AutoLoad.AssemblyInfo.cs
+D:\Dev - Godot\AutoLoad_Error\.godot\mono\temp\obj\Debug\AutoLoad.csproj.CoreCompileInputs.cache
+D:\Dev - Godot\AutoLoad_Error\.godot\mono\temp\bin\Debug\AutoLoad.deps.json
+D:\Dev - Godot\AutoLoad_Error\.godot\mono\temp\bin\Debug\AutoLoad.runtimeconfig.json
+D:\Dev - Godot\AutoLoad_Error\.godot\mono\temp\bin\Debug\AutoLoad.dll
+D:\Dev - Godot\AutoLoad_Error\.godot\mono\temp\bin\Debug\AutoLoad.pdb
+D:\Dev - Godot\AutoLoad_Error\.godot\mono\temp\bin\Debug\GodotSharp.dll
+D:\Dev - Godot\AutoLoad_Error\.godot\mono\temp\bin\Debug\GodotSharpEditor.dll
+D:\Dev - Godot\AutoLoad_Error\.godot\mono\temp\obj\Debug\AutoLoad.csproj.CopyComplete
+D:\Dev - Godot\AutoLoad_Error\.godot\mono\temp\obj\Debug\AutoLoad.dll
+D:\Dev - Godot\AutoLoad_Error\.godot\mono\temp\obj\Debug\refint\AutoLoad.dll
+D:\Dev - Godot\AutoLoad_Error\.godot\mono\temp\obj\Debug\AutoLoad.pdb
+D:\Dev - Godot\AutoLoad_Error\.godot\mono\temp\obj\Debug\AutoLoad.genruntimeconfig.cache
+D:\Dev - Godot\AutoLoad_Error\.godot\mono\temp\obj\Debug\ref\AutoLoad.dll
